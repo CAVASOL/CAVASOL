@@ -8,10 +8,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="40%" />
 </a>
 
-Here are some quick things about me:
+⚡ Here are some quick things about me:
 
 - 🔭 Ruby on Rails Developer with Accessibility & Inclusive design passion.
 - 🏫 Licensed teacher for Special education and Fine-art education.
 - 📫 The best way to reach me is to send me an email.
-    [sending me an email](awyeon@gmail.com)
+  - [sending me an email](awyeon@gmail.com)
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
