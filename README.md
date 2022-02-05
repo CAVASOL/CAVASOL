@@ -12,6 +12,6 @@
 
 - 🔭 Ruby on Rails Developer
 - 🧑‍💻 Focused on Accessibility & Inclusive design
-- 🏫 Licensed teacher for Special education and Fine-Arts education
+- 🏫 Licensed teacher for Special education & Fine-Arts education
 - 📫 The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)
 - 🧸 I'm proud of who I am, what I have built, and what I am building.
