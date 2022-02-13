@@ -5,7 +5,7 @@
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="42%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=05192C&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
 </a>
 
 ⚡ Here are some quick things about **ME**:
