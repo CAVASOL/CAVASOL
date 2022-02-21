@@ -17,5 +17,5 @@
 ![](https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=6baac4)
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=6baac4&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&count_private=true&include_all_commits=true&title_color=000&icon_color=6baac4&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
 </a>
