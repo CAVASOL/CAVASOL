@@ -19,3 +19,6 @@
 <a href="https://github.com/CAVASOL?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=6DD3AB&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
 </a>
+
+<a href="https://github.com/CAVASOL?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&layout=compact&show_icons=true&title_color=000&icon_color=6DD3AB&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
