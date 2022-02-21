@@ -4,7 +4,7 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!**
 
-My name is **Yeon** and I'm a **Web developer with passion for Accessibility and Inclusive design**. I'm also licensed teacher for Special Education and Fine Arts Education. I'm from Korea, currently living in Bali, Indonesia.
+My name is **Yeon** and I'm a **Web developer with passion for Accessibility and Inclusive design**. I'm also licensed teacher for Special Education and Fine Arts Education. I'm from South Korea, currently living in Bali, Indonesia.
 The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
 ### Technologies & Tools
