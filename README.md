@@ -20,5 +20,9 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 ![](https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=6DD3AB)
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="leftr" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=6DD3AB&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&title_color=000&icon_color=6DD3AB&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="48%" />
+</a>
+
+<a href="https://github.com/CAVASOL/CAVASOL">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&hide=java,html,tex&title_color=000&text_color=000&icon_color=6DD3AB&bg_color=fffffff&langs_count=3&hide_border=true#gh-light-mode-only" width="48%"/>
 </a>
