@@ -19,12 +19,12 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4)
 
 
-<!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&bg_color=ffffff">
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CAVASOL?cardType=github&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&bg_color=ffffff" width="45%" />
+<!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CAVASOL?cardType=github&theme=tokyonight&count_private=true />
 </a> -->
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&cardType=github&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&cardType=github&theme=tokyonight&count_private=true&hide_border=true&show_icons=true" />
 </a>
 
 <a href="https://github.com/CAVASOL?tab=repositories">
