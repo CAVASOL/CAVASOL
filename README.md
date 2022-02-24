@@ -20,7 +20,7 @@
 
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CAVASOL?cardType=github&theme=tokyonight" width="54%" />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CAVASOL?cardType=github&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&bg_color=ffffff" width="54%" />
 </a>
 
 <!-- <a href="https://github.com/CAVASOL?tab=repositories">
