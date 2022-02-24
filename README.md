@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=ffffff" width="54%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=ffffff&hide_rank=true" width="54%" />
 </a>
 
 <a href="https://github.com/CAVASOL?tab=repositories">
