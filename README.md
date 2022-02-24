@@ -20,13 +20,13 @@
 
 
 <!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&count_private=true" />
-  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CAVASOL?cardType=github&theme=tokyonight&count_private=true />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/CAVASOL?cardType=github&theme=tokyonight&count_private=true" />
 </a> -->
 
 <a href="https://github.com/CAVASOL/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&cardType=github&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&cardType=github&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&include_all_commits=true" width="48%" />
 </a>
 
 <a href="https://github.com/CAVASOL/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true&background=ffffff" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true&background=ffffff&ring=59A6FB&fire=59A6FB&currStreakNum=333333&sideNums=333333&currStreakLabel=595959&sideLabels=sideLabels" width="47%" />
 </a>
