@@ -24,9 +24,9 @@
 </a> -->
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&cardType=github&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" width="54%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&cardType=github&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true" width="46%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true" />
 </a>
