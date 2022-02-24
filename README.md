@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&hide_border=true&count_private=true&title_color=000&icon_color=6baac4&text_color=000&bg_color=ffffff&ring=6baac4&hide_border=true#gh-light-mode-only" width="45%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&hide_border=true&count_private=true&title_color=000&icon_color=6baac4&text_color=000&bg_color=ffffff&ring=6baac4&fire=6baac4&currStreakNum=6baac4&currStreakLabel=6baac4&hide_border=true#gh-light-mode-only" width="45%" />
 </a>
