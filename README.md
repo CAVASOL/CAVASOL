@@ -23,5 +23,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=ffffff" width="48%" />
 </a>
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&background=ffffff" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&background=ffffff&ring=5094F0&fire=5094F0&currStreakNum=6baac4&sideNums=5A5A5A&currStreakLabel=5A5A5A&sideLabels=5A5A5A&dates=5A5A5A" width="48%" />
 </a>
