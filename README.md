@@ -20,8 +20,8 @@
 
 
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&show_icons=true&count_private=true&ring=6BAAC4&hide_title=true&title_color=000&icon_color=6BAAC4&text_color=000&bg_color=ffffff&hide_border=true" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&show_icons=true&count_private=true&ring=6BAAC4&hide_title=true&title_color=000&icon_color=6BAAC4&text_color=000&bg_color=ffffff&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/CAVASOL?tab=repositories">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&hide_border=true&count_private=true&title_color=000&icon_color=6baac4&text_color=000&bg_color=ffffff&ring=6baac4&fire=6baac4&currStreakNum=24292F&currStreakLabel=000&hide_border=true" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&text_color=000&background=ffffff&ring=6baac4&fire=6baac4&currStreakNum=24292F&currStreakLabel=000&" width="48%" />
 </a>
