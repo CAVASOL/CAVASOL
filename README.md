@@ -9,7 +9,7 @@ My name is **Yeon** and I'm a **Web developer passionate for Accessibility and I
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Frameworks-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=6baac4)
-![](https://img.shields.io/badge/Frameworks-Bootstrap-informational?style=bootstrap&logo=gnu-bash&logoColor=white&color=6baac4)
+![](https://img.shields.io/badge/Frameworks-Bootstrap-informational?style=fla&logo=bootstrap&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Frameworks-Jest-informational?style=flat&logo=jest&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=postgresql&logo=postgresql&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6baac4)
