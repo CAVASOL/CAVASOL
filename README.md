@@ -19,7 +19,7 @@ My name is **Yeon** and I'm a **Web developer passionate for Accessibility and I
 
 ### Yeon's Github stats
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=69A1B9" width="420px" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=69A1B9" width="420px" height="220px"/>
 </a>
 
 <a href="https://github.com/CAVASOL">
