@@ -18,7 +18,6 @@
 ![](https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4)
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" width="48%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" width="47%" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true" width="47%" />
