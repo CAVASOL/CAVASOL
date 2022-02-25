@@ -19,9 +19,9 @@ My name is **Yeon** and I'm a **Web developer passionate for Accessibility and I
 
 ### Yeon's Github stats
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=ffffff" width="53%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=69A1B9" width="220px" />
 </a>
 
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=5094F0&fire=5094F0&currStreakNum=343434&sideNums=343434&currStreakLabel=595959&sideLabels=595959&dates=343434&border=EDF0F3&background=ffffff" width="45%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=5094F0&fire=5094F0&currStreakNum=343434&sideNums=343434&currStreakLabel=595959&sideLabels=595959&dates=343434&border=EDF0F3&background=69A1B9" width="220px" />
 </a>
