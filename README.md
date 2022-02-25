@@ -23,5 +23,5 @@
 </a>
 
 <a href="https://github.com/CAVASOL/CAVASOL">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true" width="49%" />
 </a>
