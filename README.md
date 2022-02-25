@@ -18,7 +18,7 @@
 
 ### Yeon's Github stats
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&bg_color=D0BDF3" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true&bg_color=D0BDF3" width="52%" />
 </a>
 
 <a href="https://github.com/CAVASOL">
