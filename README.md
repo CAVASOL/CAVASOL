@@ -19,9 +19,9 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4)
 
 <a href="https://github.com/CAVASOL/CAVASOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" width="50%" />
 </a>
 
 <a href="https://github.com/CAVASOL/CAVASOL">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight&hide_border=true" width="49%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true" width="49%" />
 </a>
