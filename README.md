@@ -1,8 +1,8 @@
-
-
 ### Hi there 😊
 
-> **Thanks for visiting my GitHub profile, it's great to meet you here!** My name is **Yeon** and I'm a **Web developer passionate for Accessibility and Inclusive design**. I'm also licensed teacher for Special Education and Fine Arts Education. I'm from South Korea, currently living in Bali, Indonesia. The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
+```md
+ **Thanks for visiting my GitHub profile, it's great to meet you here!** My name is **Yeon** and I'm a **Web developer passionate for Accessibility and Inclusive design**. I'm also licensed teacher for Special Education and Fine Arts Education. I'm from South Korea, currently living in Bali, Indonesia. The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
+```
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
@@ -18,8 +18,10 @@
 ![](https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4)
 
+### Yeon's Github stats
+
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=tokyonight_duo&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" width="50%" />
 </a>
 
 <a href="https://github.com/CAVASOL">
