@@ -6,20 +6,19 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
 ### Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/Code-Ruby-6baac4.svg">
-  <a href="#"><img art="Ruby" src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4">
-  <a href="#"><img art="React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6baac4">
-  <a href="#"><img art="Javascript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=javascript&logo=javascript&logoColor=white&color=6baac4">
-  <a href="#"><img art="CSS" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6baac4">
-  <a href="#"><img art="HTML" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6baac4">
-  <a href="#"><img art="Rails" src="https://img.shields.io/badge/Frameworks-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=6baac4">
-  <a href="#"><img art="Bootstrap" src="https://img.shields.io/badge/Frameworks-Bootstrap-informational?style=fla&logo=bootstrap&logoColor=white&color=6baac4">
-  <a href="#"><img art="Jest" src="https://img.shields.io/badge/Frameworks-Jest-informational?style=flat&logo=jest&logoColor=white&color=6baac4">
-  <a href="#"><img art="PostgreSQL" src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=postgresql&logo=postgresql&logoColor=white&color=6baac4">
-  <a href="#"><img art="Redis" src="https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6baac4">
-  <a href="#"><img art="Heroku" src="https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=6baac4">
-  <a href="#"><img art="Mocha" src="https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=6baac4">
-  <a href="#"><img art="Git" src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4">
+  <a href="#"><img art="Ruby" src="https://img.shields.io/badge/Code-Ruby-6baac4?logo=ruby&logoColor=white">
+  <a href="#"><img art="React" src="https://img.shields.io/badge/Code-React-6baac4?logo=react&logoColor=white">
+  <a href="#"><img art="Javascript" src="https://img.shields.io/badge/Code-JavaScript-6baac4?logo=javascript&logoColor=white">
+  <a href="#"><img art="CSS" src="https://img.shields.io/badge/Code-CSS-6baac4?logo=css3&logoColor=white">
+  <a href="#"><img art="HTML" src="https://img.shields.io/badge/Code-HTML-6baac4?logo=html5&logoColor=white">
+  <a href="#"><img art="Rails" src="https://img.shields.io/badge/Frameworks-Rails-6baac4?logo=rubyonrails&logoColor=white">
+  <a href="#"><img art="Bootstrap" src="https://img.shields.io/badge/Frameworks-Bootstrap-6baac4?logo=bootstrap&logoColor=white">
+  <a href="#"><img art="Jest" src="https://img.shields.io/badge/Frameworks-Jest-6baac4?logo=jest&logoColor=white">
+  <a href="#"><img art="PostgreSQL" src="https://img.shields.io/badge/Database-PostgreSQL-6baac4?logo=postgresql&logoColor=white">
+  <a href="#"><img art="Redis" src="https://img.shields.io/badge/Database-Redis-6baac4?logo=redis&logoColor=white">
+  <a href="#"><img art="Heroku" src="https://img.shields.io/badge/Cloud-Heroku-6baac4?logo=heroku&logoColor=white">
+  <a href="#"><img art="Mocha" src="https://img.shields.io/badge/Tools-Mocha-6baac4?logo=mocha&logoColor=white">
+  <a href="#"><img art="Git" src="https://img.shields.io/badge/Tools-Git-6baac4?logo=git&logoColor=white">
 </p>
 
 ### Yeon's Github stats
