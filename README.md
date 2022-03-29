@@ -6,6 +6,7 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
 ### Technologies & Tools
 <p>
+  [![Ruby !](https://img.shields.io/badge/Code-Ruby-6baac4.svg)](https://shields.io/)
   <a href="#"><img art="Ruby" src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4">
   <a href="#"><img art="React" src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6baac4">
   <a href="#"><img art="Javascript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=javascript&logo=javascript&logoColor=white&color=6baac4">
