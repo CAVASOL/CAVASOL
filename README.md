@@ -26,5 +26,5 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 </a>
 
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=5094F0&fire=5094F0&currStreakNum=343434&sideNums=343434&currStreakLabel=595959&sideLabels=595959&dates=343434&border=EDF0F3&background=ffffff" width="370px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=D8582C&fire=D8582C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=09131B&background=09131B" width="370px" />
 </a>
