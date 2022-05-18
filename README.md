@@ -27,7 +27,10 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 </a> -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&layout=compact" width="370px" />
+<a href="https://github.com/CAVASOL">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px"/>
+</a>
+
 
 <a href="https://github.com/CAVASOL">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=D8582C&fire=D8582C&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border=0D1117&background=0D1117" width="370px" />
