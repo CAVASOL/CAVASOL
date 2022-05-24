@@ -9,11 +9,11 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6baac4)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6baac4)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6baac4) <br />
 ![](https://img.shields.io/badge/Frameworks-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Frameworks-Bootstrap-informational?style=fla&logo=bootstrap&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flatl&logo=postgresql&logoColor=white&color=6baac4)
-![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6baac4)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6baac4) <br />
 ![](https://img.shields.io/badge/BaaS-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/BaaS-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/BaaS-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=6baac4)
