@@ -6,9 +6,10 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6baac4)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Frameworks-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=6baac4)
-![](https://img.shields.io/badge/Frameworks-React-informational?style=flat&logo=react&logoColor=white&color=6baac4)
-![](https://img.shields.io/badge/Frameworks-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6baac4) <br />
+![](https://img.shields.io/badge/Frameworks-React-informational?style=flat&logo=react&logoColor=white&color=6baac4) <br />
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flatl&logo=postgresql&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flatl&logo=mongodb&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6baac4)
