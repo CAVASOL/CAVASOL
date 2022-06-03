@@ -1,10 +1,10 @@
-### Hi there 😊
-> **Thanks for visiting my GitHub profile, it's great to meet you here!** <br />
-My name is **Yeon** and I'm a **Web developer passionate for Accessibility and Inclusive design**. <br />
-I'm from South Korea and licensed teacher for Special Education and Fine Arts Education. <br />
+### Hi there 👋
+My name is **Yeon** and I'm a Web developer. <br />
+Also licensed teacher for Special education and Fine arts education from South Korea. <br />
+Passionate for taking care of accessibility, user interfaces of product with inclusive design, and quality. <br />
 The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
-### Technologies & Tools
+<!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6baac4)
@@ -18,7 +18,7 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 ![](https://img.shields.io/badge/BaaS-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=6baac4) <br />
 ![](https://img.shields.io/badge/Tools-Mocha-informational?style=flat&logo=mocha&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=6baac4)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4) -->
 
 ### Yeon's Github stats
 <!-- <a href="https://github.com/CAVASOL">
