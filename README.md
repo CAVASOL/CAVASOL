@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Yeon** and I'm a Web developer. <br />
-Also licensed teacher for Special education and Fine arts education from South Korea. <br />
-Passionate for taking care of accessibility, user interfaces of product with inclusive design, and quality. <br />
+I have a passion for inclusive design and accessibility of web services and applications. <br />
+My career began with concern about user experience and the environment, and I want to become a developer who <br /> contributes to the generalization of universal design and technologies. <br />
 The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
 <!-- ### Technologies & Tools
