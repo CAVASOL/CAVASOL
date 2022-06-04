@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Yeon** and I'm a Web developer based in South Korea. <br />
+My name is **Yeon** and I'm a Web developer from South Korea. <br />
 I have a passion for inclusive design and accessibility of web services and applications. <br />
 My career began with concern about user experience and the environment, <br />
 and I want to become a developer who contributes to the generalization of universal design and technologies. <br />
