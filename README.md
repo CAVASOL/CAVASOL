@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Yeon** and I'm a Web developer from South Korea. <br />
-I have a passion for inclusive design and accessibility of web services and applications. <br />
+I have a passion for **Inclusive design** and **Accessibility** of web services and applications. <br />
 The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 
 <!-- ### Technologies & Tools
