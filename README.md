@@ -18,7 +18,6 @@ The best way to reach me is to [send me an email](mailto:awyeon@gmail.com)!
 ![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=6baac4)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6baac4) -->
 
-### Yeon's Github stats
 <!-- <a href="https://github.com/CAVASOL">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CAVASOL&theme=codeSTACKr&count_private=true&show_icons=false&hide_border=true&hide_title=true&bg_color=0D1117&text_color=8B949E" width="440px"/>
 </a> -->
