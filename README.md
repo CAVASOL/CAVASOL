@@ -1,5 +1,7 @@
 "That the powerful play goes on, and you may contribute a verse." <br />
-Call me Sol. and the best way to reach me is to send me an [email](mailto:awyeon@gmail.com)!
+
+Call me Sol.<br />
+The best way to reach me is to send me an [email](mailto:awyeon@gmail.com)!
 
 <!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
