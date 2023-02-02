@@ -1,5 +1,5 @@
->Call me **Sol**
->I'm a Web developer with a passion for improving **Accessibility and Universal design**.
+>Call me **Sol** <br />
+>I'm a Web developer with a passion for improving **Accessibility and Universal design**. <br />
 >The best way to reach me is to send me an [email](mailto:awyeon@gmail.com)!
 
 <!-- ### Technologies & Tools
