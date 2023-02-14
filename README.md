@@ -1,6 +1,8 @@
->Call me **Sol**,<br />
->I'm a Web developer with a passion for improving **Accessibility and Universal design**. <br />
->The best way to reach me is to send me an [email](mailto:awyeon@gmail.com).
+```
+Call me **Sol**,<br />
+Love to focus for improving ***Accessibility*** and ***Universal design***. <br />
+<sub>The best way to reach me is to send me an [email](mailto:awyeon@gmail.com). </sub>
+```
 
 <!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
