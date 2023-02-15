@@ -1,7 +1,7 @@
 
 >Call me ***Sol***,<br />
 >Welcome projects for boosting ***Accessibility*** and ***Universal design***. <br />
-><sub>The best way to reach me is to send me an [email](mailto:awyeon@gmail.com). </sub>
+><sub>[Email me](mailto:awyeon@gmail.com), if you have any questions. </sub>
 
 
 <!-- ### Technologies & Tools
