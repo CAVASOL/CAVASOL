@@ -1,6 +1,6 @@
 
 >Call me **Sol**,<br />
->Love to focus for improving ***Accessibility*** and ***Universal design***. <br />
+>Welcome projects for boosting ***Accessibility*** and ***Universal design***. <br />
 ><sub>The best way to reach me is to send me an [email](mailto:awyeon@gmail.com). </sub>
 
 
