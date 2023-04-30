@@ -1,4 +1,4 @@
->Call me **Yeon**, Yeon rhymes with fun.<br />
+Call me **Yeon**, Yeon rhymes with fun.<br />
 
 <!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
