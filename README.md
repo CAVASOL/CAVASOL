@@ -1,4 +1,4 @@
->Hi, My name is ***Yeon***, I go by ***Sol***.<br />
+> Hi, My name is **_Yeon_**, I go by **_Sol_**.<br />
 
 <!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
@@ -28,5 +28,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border=0D1117&background=0D1117" width="370px" />
 </a> -->
 
-<img align="center" alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/cavasol/cavasol/blob/master/nice.gif?raw=true" width="100%">
-
+<img align="center" alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Michael Jackson's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/cavasol/cavasol/blob/main/cool.gif?raw=true" width="100%">
