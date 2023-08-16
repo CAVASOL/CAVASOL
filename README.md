@@ -28,4 +28,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border=0D1117&background=0D1117" width="370px" />
 </a> -->
 
-<img align="center" alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Michael Jackson's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/cavasol/cavasol/blob/main/cool.gif?raw=true" width="100%">
+<img align="center" alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Michael Jackson's famous &quot;Billie Jean&quot;." src="https://github.com/cavasol/cavasol/blob/main/cool.gif?raw=true" width="100%">
