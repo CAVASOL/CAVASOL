@@ -1,4 +1,5 @@
-> Hi, My name is **_Yeon_**, I go by **_Sol_**.<br />
+> Hi, My name is ***Yeon***, I go by ***Sol***.<br />
+> I'm a Front End Engineer interested in `Web/App Accessibility`, `UX Research` and `E-commerce`.
 
 <!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
