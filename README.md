@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://github.com/CAVASOL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=21262D&title_color=8B949E&icon_color=CCFF06" width="560px" height="147px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=21262D&title_color=8B949E&icon_color=CCFF06" width="720px" height="147px" />
   </a>
 </details>
 
