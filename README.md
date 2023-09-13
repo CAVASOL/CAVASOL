@@ -21,7 +21,7 @@
 </a> -->
 
 <a href="https://github.com/CAVASOL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=CCFF06" height="160px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=CCFF06" width="360px height="160px" />
 </a>
 
 <a href="https://github.com/CAVASOL">
