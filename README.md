@@ -1,6 +1,6 @@
 > Hi, ~~My name is Yeon~~. I go by ***`Sol`***<br />
 <details>
-  <summary> Stats </summary></summary>
+<!--   <summary> Stats </summary></summary>
   <a href="https://github.com/CAVASOL">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=CCFF06&fire=CCFF06&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border=0D1117&background=0D1116" width="360px" height="147px" />
   </a>
@@ -8,7 +8,7 @@
   <a href="https://github.com/CAVASOL">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAVASOL&langs_count=10&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=0D1116&title_color=8B949E&icon_color=CCFF06" height="147px" />
   </a>
-</details>
+</details> -->
 
 <img align="center" alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Michael Jackson's famous &quot;Billie Jean&quot;." src="https://github.com/cavasol/cavasol/blob/main/cool.gif?raw=true" width="100%">
 
