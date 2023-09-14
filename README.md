@@ -1,6 +1,6 @@
 > Hi, ~~My name is Yeon~~. I go by ***`Sol`***<br />
-<details>
-<!--   <summary> Stats </summary></summary>
+<!-- <details>
+  <summary> Stats </summary></summary>
   <a href="https://github.com/CAVASOL">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAVASOL&theme=tokyonight_duo&hide_border=true&ring=CCFF06&fire=CCFF06&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&border=0D1117&background=0D1116" width="360px" height="147px" />
   </a>
