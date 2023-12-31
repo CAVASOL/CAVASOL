@@ -1,4 +1,5 @@
-> Hi, ~~My name is Yeon~~. I go by ***`Sol`***<br />
+> Hi, ~~My name is Yeon~~. I go by ***`Sol`***<br /> The one gonna dance on the floor in the round.
+
 <!-- <details>
   <summary> Stats </summary></summary>
   <a href="https://github.com/CAVASOL">
