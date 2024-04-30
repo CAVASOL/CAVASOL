@@ -1,4 +1,4 @@
-> Hi, ~~My name is Yeon~~. I go by ***`Sol`***<br /> The one gonna dance on the floor in the round.
+> Hi, ~~My name is Yeun~~. I go by ***`Sol`***<br /> The one gonna dance on the floor in the round.
 
 <!-- <details>
   <summary> Stats </summary></summary>
