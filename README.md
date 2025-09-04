@@ -1,4 +1,4 @@
-> Hi, ~~My name is Yeun~~, I go by ***`Sol`***. <br /> Here for good vibes, bad jokes, and moonwalks. 
+> Hi, I go by ***`Sol`*** <br /> Here for good vibes, bad jokes, and moonwalks. 
 
 <!-- <details>
   <summary> Stats </summary></summary>
