@@ -1,4 +1,4 @@
-> Hi, I go by ***`Sol`*** <br /> Here for good vibes, bad jokes, and moonwalks. 
+> Hi, I go by ***`Sol`*** <br /> One push after another, viva la revolución.
 
 <!-- <details>
   <summary> Stats </summary></summary>
@@ -11,7 +11,7 @@
   </a>
 </details> -->
 
-<img align="center" alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Michael Jackson's famous &quot;Billie Jean&quot;." src="https://github.com/cavasol/cavasol/blob/main/cool.gif?raw=true" width="100%">
+<img align="center" alt="You know what freedome is? &quot;No fear&quot;." src="https://github.com/cavasol/cavasol/blob/main/no_fear.gif?raw=true" width="100%">
 
 <!-- ### Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6baac4)
