@@ -1,4 +1,4 @@
-> Hi, I go by ***`Sol`*** <br /> One push after another, Viva la revolución!
+> Hi, I go by ***`Sol`*** <br /> <ins>One push after another</ins>, **Viva la revolución!**
 
 <!-- <details>
   <summary> Stats </summary></summary>
