@@ -1,6 +1,5 @@
 > Hi, I go by ***`Sol`*** <br /> One push after another, **Viva la revolución!** <br /> <br />
-> ⠠⠓⠊⠂⠀⠠⠊⠀⠛⠕⠀⠃⠽⠀⠠⠎⠕⠇<br />⠠⠕⠝⠑⠀⠏⠥⠎⠓⠀⠁⠋⠞⠑⠗⠀⠁⠝⠕⠞⠓⠑⠗⠂⠀⠠⠧⠊⠧⠁⠀⠇⠁⠀⠗⠑⠧⠕⠇⠥⠉⠊⠪⠝⠖.
- 
+> ⠠⠉⠓⠁⠞⠠⠛⠠⠏⠠⠞⠀⠊⠎⠀⠏⠗⠑⠞⠞⠽⠀⠉⠕⠝⠧⠑⠝⠊⠑⠝⠞⠂⠀⠓⠥⠓⠦
 
 <!-- <details>
   <summary> Stats </summary></summary>
