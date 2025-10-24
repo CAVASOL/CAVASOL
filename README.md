@@ -1,5 +1,4 @@
-> Hi, I go by ***`Sol`*** <br /> One push after another, **Viva la revolución!** <br /> <br />
-> ⠠⠉⠓⠁⠞⠠⠛⠠⠏⠠⠞⠀⠅⠊⠝⠙⠁⠀⠎⠇⠁⠏⠎⠂⠀⠓⠥⠓⠦
+> am the update you ain't ready for, sis.
 
 <!-- <details>
   <summary> Stats </summary></summary>
